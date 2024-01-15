@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Buscador de vuelos</string>
+    <string name="flight_search">Vuelos</string>
+    <string name="search_label">Buscar aeropuerto</string>
+    <string name="search_icon">Icono de búsqueda</string>
+    <string name="no_favorites_yet">No tienes rutas favoritas</string>
+    <string name="depart_label">Origen</string>
+    <string name="arrive_label">Destino</string>
+    <string name="flights_from">Vuelos desde %1$s</string>
+    <string name="favorites_flights">Rutas favoritas</string>
+
+</resources>
